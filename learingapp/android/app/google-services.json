@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434775448285",
+    "project_id": "ai-learingapp",
+    "storage_bucket": "ai-learingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434775448285:android:3220071286832faf829934",
+        "android_client_info": {
+          "package_name": "com.example.learingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpsmElSdoPyeX5q5rgIww8gwyPS2XC-pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
