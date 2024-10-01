@@ -133,7 +133,7 @@ class _MarkdownDisplayScreenState extends State<MarkdownDisplayScreen> {
                 try {
                   final model = GenerativeModel(
                     model: 'gemini-1.5-flash-latest',
-                    apiKey: "AIzaSyCcLWJMgkqSXzYNF_ND9qWY1RIhiHYUDKU",
+                    apiKey: "API_KEY",
                   );
                   String prompt =
                       '${widget.markdownContent} on basis of this generate some 5-10 quize from easy to hard with options and all ans in last after some blank lines pass add some note in last that practice youself etc like this';
