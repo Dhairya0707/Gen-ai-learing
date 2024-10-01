@@ -5,11 +5,8 @@ Gem Study is a dynamic learning app designed to empower learners and educators a
 
 What You Can Do
 Create Courses: Easily add new courses with a specific focus, whether it’s Mathematics, Programming, History, or any subject that sparks your interest. Customize the difficulty level to suit your audience—be it beginners or advanced learners.
-
 Generate Quizzes: Transform your course materials into engaging quizzes effortlessly. Our AI-powered quiz generator creates multiple-choice questions based on your course content, making learning interactive and fun.
-
 Markdown Support: Display your content beautifully with Markdown support, ensuring that your learning materials are not only informative but also visually appealing.
-
 Why Gem Study?
 In today’s fast-paced world, effective learning tools are essential. Gem Study bridges the gap between traditional learning methods and innovative technology, making education more accessible and enjoyable. With AI at its core, it offers personalized learning experiences tailored to individual needs.
 
