@@ -36,7 +36,7 @@ class CourseProvider extends ChangeNotifier {
     try {
       final model = GenerativeModel(
         model: 'gemini-1.5-flash-latest',
-        apiKey: "AIzaSyCcLWJMgkqSXzYNF_ND9qWY1RIhiHYUDKU",
+        apiKey: "API_KEY",
       );
       String prompt =
           'Generate a long  detailed learning plan with study way in Markdown format on the topic : ${courseName.text} specificFocus focus : ${specificFocus.text}. difficulty level : $_difficultyLevel. Include: An introduction to the topic. Two main sections explaining key concepts. One example or practice question for each section. A closing motivational statement in a blockquote. Provide a list of additional resources (links, articles, or books) at the end.';
